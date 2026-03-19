@@ -1,0 +1,1 @@
+In this project we are going to practice the foundations of Javascript. 
